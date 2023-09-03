@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center">Welcome to my Profile 👋</h1>
+
+<p align="center">
+    <img src="https://github.com/namensy/my-profile/blob/main/tokyo.gif"/>
+</p>
+
 
 <!--
 **namensy/namensy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

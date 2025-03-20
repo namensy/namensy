@@ -5,7 +5,7 @@
     </animated-image>
 </div>
 <h2> 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮  💬: </h2>
-<p>- I'm 24 years old Web Developer from Thailand</p>
+<p>- I'm 24-25 years old Web Developer from Thailand</p>
 <p>- Learning :</p>
 <ul>
     <li>✨ Full-Stack Web-developement </li>

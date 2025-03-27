@@ -12,7 +12,7 @@
 </ul>
 <p>- Hobbies :</p>
 <ul>
-    <li>✨ Gaming Addict</li>
+    <li>✨ Learning to Code</li>
     <li>✨ Watching Anime</li>
     <li>✨ Reading Book</li>
     <li>✨ Boxing , Lifting weight</li>

@@ -13,9 +13,9 @@
 <p>- Hobbies :</p>
 <ul>
     <li>✨ Learning to Code</li>
-    <li>✨ Watching Anime</li>
-    <li>✨ Reading Book</li>
-    <li>✨ Boxing , Lifting weight</li>
+    <li>✨ Lerning about Code</li>
+    <li>✨ Coding</li>
+    <li>✨ and Coding</li>
 </ul>
 <p>- Updates will follow soon. </p>
 

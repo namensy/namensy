@@ -13,7 +13,7 @@
 <p>- Hobbies :</p>
 <ul>
     <li>✨ Learning to Code</li>
-    <li>✨ Lerning about Code</li>
+    <li>✨ Learning about Framework</li>
     <li>✨ Coding</li>
     <li>✨ and Coding</li>
 </ul>
